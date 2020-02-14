@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-firestore-c5c48": {
+      "hosting": {
+        "angular-crud": [
+          "angular-firestore-c5c48"
+        ]
+      }
+    }
+  }
+}
